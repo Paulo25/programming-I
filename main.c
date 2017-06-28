@@ -3,7 +3,13 @@
 #include <locale.h>
 #include <string.h>
 #include <windows.h>
-/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+/* 
+@Author: Paulo Vitor Carvalho
+@Contribuitor: Renan Marques de Oliveira Almeida
+
+## SOFTWARE LIVRE ##
+
+*/
 
 struct Cliente{
 	int id;
